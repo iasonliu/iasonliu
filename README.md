@@ -1,8 +1,5 @@
 ### Keep walking 🌱
-![My github stats](https://github-readme-stats.vercel.app/api?username=iasonliu&show_icons=true&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iasonliu&layout=compact)](https://github.com/iasonliu/iasonliu)
-
+<img src="https://github-readme-stats.vercel.app/api?username=iasonliu&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff" />    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasonliu&layout=compact&langs_count=5" />
 <!--
 **iasonliu/iasonliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
